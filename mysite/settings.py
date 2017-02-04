@@ -25,7 +25,7 @@ SECRET_KEY = '6(+!fxx+)r8o2wz)u3v(vb^61gim(&)jpq-0=o=i25m9ic!i^#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['testkate03.pythonanywhere.com']
 
 
 # Application definition
